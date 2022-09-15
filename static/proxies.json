@@ -3887,11 +3887,7 @@
     "name": "Texas A&M University - Texarkana",
     "url": "http://dbproxy.tamut.edu/login?url=$@"
   },
-  {
-    "name": "Texas A&M University School of Law",
-    "url": "http://lawresearch.tamu.edu/login?url=$@"
-  },
-  {
+   {
     "name": "Texas A&M University-Commerce",
     "url": "https://login.proxy.tamuc.edu/login?url=$@"
   },
